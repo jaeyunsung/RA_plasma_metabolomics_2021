@@ -1,12 +1,12 @@
 Plasma Metabolomic Profiling in Patients with Rheumatoid Arthritis Identifies Biochemical Features Indicative of Quantitative Disease Activity
 =========================
 
-DOI : TBD
+DOI: TBD
 
 Benjamin Hur, Vinod K. Gupta, Harvey Huang, Kerry A. Wright, Kenneth J. Warrington, Veena Taneja, John M. Davis III, and Jaeyun Sung
 
 Contact: hur.benjamin@mayo.edu
-Corresponding Author : sung.jaeyun@mayo.edu
+Corresponding Author: sung.jaeyun@mayo.edu
 
 
 ##### 1. Differentially Abundant metabolites
