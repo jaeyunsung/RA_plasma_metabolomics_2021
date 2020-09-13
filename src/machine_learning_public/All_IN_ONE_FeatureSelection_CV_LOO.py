@@ -97,15 +97,15 @@ if __name__ == '__main__':
 	#Model will use 126 samples to create a model
 	#Model will predict DAS28 score using 2 samples
 	#Repeating this 64 times
-	skip_preprocess = 1
-	skip_2nd_preprocess = 1
+	skip_preprocess = 0
+	skip_2nd_preprocess = 0
 	skip_model_performance = 0
 
 	#Testing the performance of "Feature selection" with full dataset (sample size 128 + 12  = patients 64 + 12)
 	#Model will use 128 samples to create a model
 	#Model will predict DAS28-CRP score using 12 samples
-	skip_full_model_preprocess = 1
-	skip_full_model_2nd_preprocess = 1
+	skip_full_model_preprocess = 0
+	skip_full_model_2nd_preprocess = 0
 	skip_final_model_performance = 0
 	
 	if skip_preprocess == 0:
