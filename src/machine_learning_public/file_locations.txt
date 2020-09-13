@@ -1,0 +1,5 @@
+//Test data
+hd4_qc_nan_matrix	../../data/validation_cohort/MLR.hd4.test.public.tsv
+
+//training data
+hd4_qc_matrix	../../data/discovery_cohort/MLR.hd4.train.public.tsv

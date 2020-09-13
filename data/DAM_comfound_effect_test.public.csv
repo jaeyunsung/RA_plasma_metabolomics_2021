@@ -1,0 +1,129 @@
+patientID,bmi,smoke,mtx,csDMARDS status,TNFi bDMARD,non-TNFi bDMARD,pred,das28,age,sex
+Temp_0001,34.6,former,yes,0,0,0,no,1.63195,75,male
+Temp_0002,37.57,former,yes,0,0,0,no,2.77995,76,male
+Temp_0003,23.7,former,yes,0,1,0,yes,2.58632,70,male
+Temp_0004,nan,former,yes,0,1,0,yes,1.49195,71,male
+Temp_0005,nan,never,no,1,0,0,no,1.78595,69,female
+Temp_0006,24.5,never,no,1,0,0,no,2.03795,69,female
+Temp_0007,31,former,no,0,0,1,no,3.03363,61,female
+Temp_0008,31.68,former,no,0,0,1,no,4.0719,62,female
+Temp_0009,28.1,former,yes,0,0,1,yes,1.70967,64,female
+Temp_0010,nan,never,yes,0,0,1,no,2.23112,64,female
+Temp_0011,27.6,former,no,0,0,1,no,3.22503,60,female
+Temp_0012,30.9,former,no,1,0,1,no,3.78125,60,female
+Temp_0013,26.4,never,yes,1,1,0,no,2.07995,78,male
+Temp_0014,nan,never,yes,1,1,0,no,1.60395,79,male
+Temp_0015,34.3,former,yes,0,0,0,no,2.3646,62,female
+Temp_0016,nan,former,yes,0,0,0,no,4.17528,63,female
+Temp_0017,nan,current (within 3 months),yes,0,0,1,no,2.03498,67,male
+Temp_0018,nan,former,yes,0,0,0,no,2.02237,68,male
+Temp_0019,32.2,current (within 3 months),yes,2,0,0,yes,1.61795,64,male
+Temp_0020,31.99,current (within 3 months),yes,2,0,0,yes,1.57595,65,male
+Temp_0021,nan,never,yes,0,0,0,yes,4.16226,76,female
+Temp_0022,27.3,never,yes,0,0,0,yes,4.24992,76,female
+Temp_0023,30.7,current (within 3 months),yes,0,0,0,no,1.56195,66,female
+Temp_0024,31.1,never,yes,0,0,0,no,1.47795,67,female
+Temp_0025,24.8,former,yes,0,0,0,yes,4.82866,85,male
+Temp_0026,nan,former,yes,1,0,0,yes,2.86797,86,male
+Temp_0027,31.5,never,yes,0,1,0,no,5.25838,35,female
+Temp_0028,32.7,never,yes,0,0,0,no,3.78535,35,female
+Temp_0029,28.2,former,no,0,0,0,no,1.98407,73,female
+Temp_0030,29.07,former,no,0,0,0,no,2.34396,74,female
+Temp_0031,23.3,former,yes,0,1,0,yes,3.08191,63,female
+Temp_0032,23.2,former,yes,0,1,0,yes,2.48581,64,female
+Temp_0033,25.3,current (within 3 months),yes,1,0,0,no,1.51995,67,female
+Temp_0034,25.23,former,yes,1,0,0,no,1.50595,69,female
+Temp_0035,30.5,never,yes,0,1,0,no,1.56195,39,female
+Temp_0036,30.2,never,yes,0,1,0,no,2.31795,39,female
+Temp_0037,22.6,never,yes,1,0,0,yes,2.51825,76,female
+Temp_0038,nan,never,yes,1,0,0,yes,2.44603,77,female
+Temp_0039,34.6,former,yes,1,1,0,no,3.91157,43,male
+Temp_0040,34.9,former,yes,1,0,0,yes,3.75613,44,male
+Temp_0041,35.4,former,no,0,1,0,no,3.99752,67,female
+Temp_0042,35.59,former,no,0,1,0,no,2.30538,68,female
+Temp_0043,35.5,never,no,0,1,0,yes,3.85795,66,female
+Temp_0044,36.5,never,no,1,1,0,yes,2.17795,67,female
+Temp_0045,42.3,nan,no,2,0,0,yes,3.43912,53,female
+Temp_0046,44.9,former,no,2,0,0,yes,3.01191,54,female
+Temp_0047,nan,never,yes,0,0,1,no,5.37692,70,female
+Temp_0048,nan,never,yes,1,0,1,no,5.46738,71,female
+Temp_0049,45.3,never,yes,0,0,0,no,4.01303,55,female
+Temp_0050,47.8,never,yes,1,0,0,no,6.09333,56,female
+Temp_0051,35.9,former,yes,0,0,0,no,3.09699,65,male
+Temp_0052,35.1,former,yes,0,0,0,yes,3.06232,66,male
+Temp_0053,29.2,former,yes,0,1,0,no,1.77195,71,male
+Temp_0054,29,former,yes,0,1,0,no,2.06595,72,male
+Temp_0055,22.8,former,no,0,1,0,yes,2.04747,62,male
+Temp_0056,23.51,former,no,0,1,0,yes,2.24335,63,male
+Temp_0057,36.4,former,yes,0,1,0,yes,2.77789,62,male
+Temp_0058,37.1,former,yes,0,0,0,yes,5.4535,63,male
+Temp_0059,41.6,former,yes,0,1,0,no,3.7535,64,female
+Temp_0060,40.7,former,no,0,1,0,no,3.33789,65,female
+Temp_0061,26.5,former,no,1,0,1,yes,1.44995,70,female
+Temp_0062,26.8,former,no,1,0,1,yes,1.47795,70,female
+Temp_0063,37.6,never,yes,0,1,0,yes,3.03195,61,male
+Temp_0064,36.2,never,yes,0,1,0,yes,3.37591,62,male
+Temp_0065,23.75,never,yes,0,0,0,yes,2.3806,67,male
+Temp_0066,24.2,never,yes,0,0,0,yes,1.60057,68,male
+Temp_0067,34.9,former,yes,0,1,0,no,2.85895,62,male
+Temp_0068,37,former,yes,0,1,0,no,3.21367,63,male
+Temp_0069,29.2,never,no,2,1,0,no,1.84195,40,female
+Temp_0070,31.1,never,no,2,1,0,no,1.81395,40,female
+Temp_0071,35.3,former,yes,1,0,0,no,1.56195,61,female
+Temp_0072,33.01,former,yes,1,0,0,no,1.63195,62,female
+Temp_0073,32.8,former,no,1,1,0,no,2.35995,65,female
+Temp_0074,34.9,current (within 3 months),yes,1,0,0,yes,4.66454,65,female
+Temp_0075,22.4,never,yes,2,0,0,yes,3.75212,75,female
+Temp_0076,22.9,never,yes,2,0,0,yes,4.08194,76,female
+Temp_0077,24.7,never,yes,0,0,0,yes,6.273,73,female
+Temp_0078,24.1,never,yes,0,0,0,no,1.57595,75,female
+Temp_0079,25.5,never,yes,0,0,0,yes,3.03167,32,female
+Temp_0080,26.1,never,yes,0,0,0,no,4.29387,33,female
+Temp_0081,37.5,never,no,1,0,0,no,3.19995,67,female
+Temp_0082,25.5,never,no,1,0,0,no,1.44995,68,female
+Temp_0083,33.5,former,yes,0,1,0,no,1.71595,64,female
+Temp_0084,nan,former,yes,0,1,0,no,1.58995,65,female
+Temp_0085,28.9,never,yes,0,0,0,yes,4.64151,66,female
+Temp_0086,nan,never,yes,1,1,0,yes,1.89795,67,female
+Temp_0087,33.2,former,no,0,0,0,yes,3.9924,72,male
+Temp_0088,nan,former,no,0,0,0,yes,4.2695,74,male
+Temp_0089,24.6,never,yes,1,0,0,yes,3.94349,55,female
+Temp_0090,24.5,never,yes,0,0,0,yes,3.52084,55,female
+Temp_0091,31.4,former,yes,0,0,0,yes,3.64795,65,female
+Temp_0092,30.4,former,yes,1,0,0,yes,4.15565,65,female
+Temp_0093,43.5,never,yes,2,0,0,no,4.05367,58,female
+Temp_0094,43.88,never,yes,2,0,0,no,5.01995,59,female
+Temp_0095,22.9,never,yes,0,0,0,yes,3.66593,74,female
+Temp_0096,22.82,never,yes,0,0,0,yes,2.74193,75,female
+Temp_0097,34.2,former,yes,0,1,0,yes,3.72972,58,female
+Temp_0098,33.7,former,yes,0,0,1,no,2.60693,59,female
+Temp_0099,nan,former,yes,0,0,0,yes,2.33385,80,male
+Temp_0100,nan,former,yes,0,0,0,yes,1.56195,81,male
+Temp_0101,27.48,former,yes,0,1,0,no,7.00031,74,male
+Temp_0102,27.4,former,yes,1,0,0,no,5.71524,74,male
+Temp_0103,30,former,no,0,0,0,no,1.47795,61,male
+Temp_0104,31.26,former,yes,0,0,0,no,1.77195,61,male
+Temp_0105,31.6,never,yes,0,0,0,no,1.95338,61,female
+Temp_0106,32.84,never,yes,0,0,0,no,2.0925,62,female
+Temp_0107,27.5,never,yes,1,0,0,no,2.9379,58,female
+Temp_0108,26.26,never,yes,1,0,0,no,5.88191,59,female
+Temp_0109,29.2,former,yes,0,0,0,no,5.09591,62,female
+Temp_0110,nan,former,yes,0,0,0,no,3.76766,63,female
+Temp_0111,39,current (within 3 months),yes,1,0,0,no,4.96479,62,female
+Temp_0112,nan,current (within 3 months),no,1,1,0,no,4.96276,63,female
+Temp_0113,22.6,never,yes,0,1,0,yes,1.50107,42,female
+Temp_0114,nan,never,yes,1,1,0,no,1.20703,43,female
+Temp_0115,31,never,yes,0,0,0,no,3.4,51,female
+Temp_0116,nan,never,yes,0,0,0,yes,4.99423,52,female
+Temp_0117,27.2,current (within 3 months),yes,0,1,0,no,2.12837,62,female
+Temp_0118,26.73,current (within 3 months),yes,0,1,0,yes,3.20917,63,female
+Temp_0119,31.4,former,no,1,0,0,yes,6.15442,52,female
+Temp_0120,31.06,former,yes,0,1,1,yes,6.60116,52,female
+Temp_0121,25.3,never,no,0,1,0,no,3.01795,64,female
+Temp_0122,25.19,never,no,0,1,0,no,3.40995,65,female
+Temp_0123,nan,former,yes,0,2,0,yes,2.58067,59,female
+Temp_0124,41.65,former,yes,0,1,0,yes,1.56195,60,female
+Temp_0125,29.8,former,yes,1,0,0,yes,1.67395,62,male
+Temp_0126,30.2,former,yes,1,0,0,no,2.45448,62,male
+Temp_0127,24.3,current (within 3 months),yes,1,0,0,yes,2.94037,52,male
+Temp_0128,24.4,current (within 3 months),yes,1,1,0,yes,2.1291,52,male
