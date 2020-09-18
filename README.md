@@ -1,7 +1,7 @@
 Plasma Metabolomic Profiling in Patients with Rheumatoid Arthritis Identifies Biochemical Features Indicative of Quantitative Disease Activity
 =========================
 
-DOI: TBD
+MedRxiv preprint: https://www.medrxiv.org/content/10.1101/2020.09.13.20193664v1
 
 Benjamin Hur, Vinod K. Gupta, Harvey Huang, Kerry A. Wright, Kenneth J. Warrington, Veena Taneja, John M. Davis III, and Jaeyun Sung
 
